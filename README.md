@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ngapp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.9.
@@ -61,3 +62,6 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # ngapp
 >>>>>>> 26429ac01ce672b3b9f44fab41b555245bb8bf05
+=======
+# Lab3angular
+>>>>>>> bf7c9b2431fbeaec68be2439d1b2f6a2c0ca053b
